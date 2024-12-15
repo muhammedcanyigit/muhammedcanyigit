@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhammedcanyigit
-- 👀 I’m interested in write code also ı like do sport.
+- 👀 I’m interested in write code.
 - 🌱 I’m currently learning js phyton
 - 💞️ I’m looking to collaborate on people because ı am learning software languages and ı am new on git hub
 - 📫 How to reach me text message ı will answer always.
